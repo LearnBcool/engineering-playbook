@@ -1,5 +1,8 @@
 # Engineering Playbook
-
+> **Version:** Foundation 0.1
+>
+> A living document that defines the engineering principles, methodology and decision-making process behind every software project developed in this organization.
+> 
 > Building software is not about writing code.
 >
 > It is about understanding problems, designing systems, making thoughtful decisions, and continuously improving as an engineer.
